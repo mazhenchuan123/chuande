@@ -52,3 +52,4 @@ call apply call的区别
   call 和 apply 的主要作用，是改变对象的执行上下文，并且是立即执行的。它们在参数上的写法略有区别
   	call 收到若干个参数
 		apply 接受一个包含多个参数的数组
+https://github.com/bailicangdu/vue2-elm/tree/master/src/page
